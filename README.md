@@ -5,5 +5,5 @@ CodePath Week 9 Assignment
  - __Summary of data collected__: Attacks from all over the word were recorded on the honeypot. These attacked all different vulnerable ports using PCAP protocol. See the image below.
  ![](https://github.com/etseff/Seff_CPWeek9/blob/master/Screenshot%202018-04-12%2017.28.47.png)
  - __Unresolved questions raised by the data collected__: How do the attackers from other countries gain access to the honeypot I made?
- - __JSON export__ 
- ![](https://github.com/etseff/Seff_CPWeek9/blob/master/session.json)
+ How does NMAP work? Do these machines from other countries just scan for vulnerable data sources anywhere in the world?
+ - __JSON export__: The JSON file has been uploaded to this directory.
